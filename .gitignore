@@ -6,6 +6,8 @@
 deps/
 states/
 
+.states/
+
 # Debug info
 *.dbg.json
 *.tsbuildinfo
